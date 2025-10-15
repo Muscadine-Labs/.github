@@ -8,5 +8,6 @@ Muscadine Labs LLC is a Wyoming software company developing Bitcoin security inf
 ### Contact
 Email: contact@muscadine.box  
 Website: https://muscadine.box  
+
 ---
 Muscadine Labs LLC is a Wyoming limited liability company. Software is provided as-is under open-source licensing.
